@@ -4,7 +4,7 @@
 
 - 🔄 Career switcher: from lawyer to Go developer
 - ⚖️ Background: 3+ years as a legal expert in financial disputes (analyzing contracts, building defense strategies)
-- 💡 Why Go: love for logic, predictability, and clean architecture
+- 💡 Why Go: love for logic, predictability and clean architecture
 - 🌱 Currently: looking for a Go Developer position
 - 💬 Open to: code reviews, advice, collaboration
 
@@ -31,4 +31,4 @@
 
 ---
 
-⭐ *Always happy to connect, learn, and contribute!*
+⭐ *Always happy to connect, learn and contribute!*
